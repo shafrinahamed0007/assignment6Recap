@@ -3,7 +3,7 @@ import playButton from "../../assets/play.png"
 
 const HeroSection = () => {
   return (
-    <div className="lg:flex  gap-5 justify-between  lg:mt-[65px]">
+    <div className="lg:flex  gap-5 justify-between  lg:mt-[65px] items-center">
       {/* content section */}
       <div className="mb-5 lg:w-[70%]">
         {/* title section */}
